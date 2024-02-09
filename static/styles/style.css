@@ -1,0 +1,24 @@
+* {
+    Margin: 0;
+    Padding: 0;
+    box-sitting: Border-box;
+}
+
+body {
+    padding: 2rem;
+    color: whitesmoke;
+    background-color: #333;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    font-size: 2rem;
+}
+
+input,
+bottom {
+    font-size: 2rem;
+    padding: 1rem;
+    border-radius: 10px
+}
